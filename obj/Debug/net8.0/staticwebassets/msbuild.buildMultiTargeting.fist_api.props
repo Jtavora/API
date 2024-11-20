@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fist_api.props" />
+</Project>
